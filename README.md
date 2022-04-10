@@ -9,7 +9,7 @@ Use the command 'npm install' to install the necessary dependencies and to be ab
 ## Deployment
 Please use the following link to access the deployed application on Heroku.
 
-
+https://infinite-bastion-92920.herokuapp.com/
 
 ## Screenshot
 Below is a screenshot of the application.
